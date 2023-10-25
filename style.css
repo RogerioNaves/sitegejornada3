@@ -1,12 +1,12 @@
 .texto{
 text-align: justify;
-color: blue;
+color:#400D01;
 font-size: 20px ;
 }
 
 #titulo{
     text-align: center;
-    background-color: aqua;
+    background-color: #3E5902;
 }
 
 #imagem {
