@@ -21,6 +21,11 @@ font-size: 20px ;
     width: 40%;
     display: flex;
     background: #BF5934;
+
+}
+.imagem
+{
+    text-align: center;
 }
 .etapa {
 background-image: linear-gradient( #B06161, #DC8686 ); 
