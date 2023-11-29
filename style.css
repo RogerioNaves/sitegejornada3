@@ -23,7 +23,11 @@ font-size: 20px ;
     color: #91A644;
 }
 
-
+#imagem {
+   
+    width: 40%;
+    
+}
 .imagem1{
     text-align: center;
 }
