@@ -26,6 +26,7 @@ font-size: 20px ;
 #imagem {
     padding: 20px;
     width: 20%;
+    border: 5px groove;
     
 }
 .imagem1{
