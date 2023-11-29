@@ -26,8 +26,9 @@ font-size: 20px ;
 #imagem {
     padding: 20px;
     width: 20%;
-    border: 5px groove;
-    display: flex;
+    border: 2px groove;
+    background: #BF5934;
+    border-radius: 10px;
     
 }
 .imagem1{
