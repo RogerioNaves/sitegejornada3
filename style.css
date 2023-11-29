@@ -31,6 +31,16 @@ font-size: 20px ;
     border-radius: 10px;
     
 }
+
+.imagem2 {
+    padding: 20px;
+    width: 50%;
+    border: 2px groove;
+    background: #BF5934;
+    border-radius: 10px;
+    
+}
+
 .imagem1{
     text-align: center;
 }
