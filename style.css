@@ -2,6 +2,17 @@ body {
     background: #BF9F9F; 
 }
 
+.cabecalho{
+
+    padding: 20px;
+background-color: #B06161;
+border-bottom:#400D01;
+font-size:;
+color: #BF9F9F;
+
+
+}
+
 
 .texto{
 text-align: justify;
@@ -29,4 +40,8 @@ font-size: 20px ;
 .etapa {
 background-image: linear-gradient( #B06161, #DC8686 ); 
 color: #400D01; 
+}
+li{
+
+    list-style-type: none;
 }
